@@ -1,0 +1,138 @@
+product_id,sku,name,category,region_code,product_category_id,mean_shelf_life,promised_lead_time,purchasing_unit,buy_unit,weight_parameter_apricot
+660,BAQ-FRU1-CAT1-111:277:659:660,Granadilla Estándar - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+676,BAQ-FRU1-CAT1-123:280:665:676,Kiwi Estándar - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+116,BAQ-FRU1-CAT1-14:49:115:116,Limón Pajarito Estándar - Kg - 🤑 (Insuperable),Frutas,BAQ,1,2,,1.0,KG,1.0
+652,BAQ-FRU1-CAT1-157:273:651:652,Tomate de Árbol Maduración Mixta Estándar - Desde 1Kg,Verduras,BAQ,1,2,,0.1,KG,1.0
+118,BAQ-FRU1-CAT1-15:50:117:118,Limón Tahití Estándar - Kg,Frutas,BAQ,1,3,,1.0,KG,1.0
+1192,BAQ-FRU1-CAT1-186:445:1139:1192,Manzana Roja Estandar - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+122,BAQ-FRU1-CAT1-19:52:121:122,Manzana Royal Gala Estandar - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+759,BAQ-FRU1-CAT1-205:306:758:759,Mango de azúcar  Estándar - Kg,Frutas,BAQ,1,2,1,20.0,KG,1.0
+1114,BAQ-FRU1-CAT1-208:432:1113:1114,Durazno Estándar - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+124,BAQ-FRU1-CAT1-20:53:123:124,Manzana Verde Estandar - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+126,BAQ-FRU1-CAT1-21:54:125:126,Maracuyá Mixto - Desde 1Kg,Frutas,BAQ,1,2,,10.0,KG,1.0
+1504,BAQ-FRU1-CAT1-233:577:1503:1504,Piña Golden Estandar - Unidad,Frutas,BAQ,1,2,,1.0,UNID,1.3
+761,BAQ-FRU1-CAT1-236:307:760:761,Mandarina Tamaño Mixto Estandar - Kg - 🤑 (Insuperable),Frutas,BAQ,1,3,,1.0,KG,1.0
+959,BAQ-FRU1-CAT1-241:367:958:959,Limón Tahití Segunda  off Estándar - Kg,Frutas,BAQ,1,1,1,1.0,KG,1.0
+134,BAQ-FRU1-CAT1-25:58:133:134,Naranja  Estándar - Kg,Frutas,BAQ,1,3,,1.0,KG,1.0
+957,BAQ-FRU1-CAT1-279:366:956:957,Limón Pajarito Corriente Estándar - Kg,Frutas,BAQ,1,1,,20.0,KG,1.0
+100,BAQ-FRU1-CAT1-2:42:99:100,Aguacate Maduro - Kg,Frutas,BAQ,1,1,,1.0,KG,1.0
+101,BAQ-FRU1-CAT1-2:42:99:101,Aguacate Pintón - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+144,BAQ-FRU1-CAT1-30:63:143:144,Papaya Maradol Selecta (Grande) - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+1502,BAQ-FRU1-CAT1-330:576:1501:1502,Melón Estandar - Unidad,Frutas,BAQ,1,2,,1.0,UNID,1.6
+1597,BAQ-FRU1-CAT1-393:618:1596:1597,Arándanos Estandar - Bandeja 125g,Frutas,BAQ,1,3,,1.0,UNID,0.13
+1868,BAQ-FRU1-CAT1-396:719:1867:1868,Tomate Cherry Maduración Mixta Estandar - Bandeja,Verduras,BAQ,1,1,,1.0,UNID,0.45
+1506,BAQ-FRU1-CAT1-397:578:1505:1506,Piña Perolera Estandar - Unidad,Frutas,BAQ,1,2,,1.0,UNID,1.5
+47263,BAQ-FRU1-CAT1-40058:70129:70130:47263,Guineo Verde Unidad Estándar - Unidad,Frutas,BAQ,1,3,,1.0,UNID,0.2
+1508,BAQ-FRU1-CAT1-440:579:1507:1508,Patilla/Sandía Grande - Unidad,Frutas,BAQ,1,3,,1.0,UNID,9.0
+1510,BAQ-FRU1-CAT1-440:579:1509:1510,Patilla/Sandía Pequeña - Unidad,Frutas,BAQ,1,3,,1.0,UNID,3.5
+53091,BAQ-FRU1-CAT1-44789:80549:80550:53091,Banano Criollo Suelto Estándar - Unidad,Frutas,BAQ,1,1,,1.0,UNID,0.3
+1870,BAQ-FRU1-CAT1-463:720:1869:1870,Uva Isabelina Estandar - Bandeja,Frutas,BAQ,1,2,,1.0,UNID,0.5
+152,BAQ-FRU1-CAT1-47:67:151:152,Plátano Hartón Verde Estandar - Desde 2Kg,Frutas,BAQ,1,1,,20.0,KG,1.0
+800,BAQ-FRU1-CAT1-47:67:799:800,Plátano Hartón Verde Pequeño - Verde,Frutas,BAQ,1,2,1,1.0,KG,1.0
+805,BAQ-FRU1-CAT1-47:68:804:805,Plátano Hartón Verde Pequeño - Maduro,Frutas,BAQ,1,2,1,1.0,KG,1.0
+105,BAQ-FRU1-CAT1-4:44:104:105,Banano Criollo Estandar - Kg,Frutas,BAQ,1,1,,1.0,KG,1.0
+178,BAQ-FRU1-CAT1-52:78:177:178,Pera  Estandar - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+1941,BAQ-FRU1-CAT1-561:754:1940:1941,Agraz Estandar - Bandeja 125g,Frutas,BAQ,1,4,,1.0,UNID,0.13
+1937,BAQ-FRU1-CAT1-579:752:1936:1937,Uva Red Estandar - Paquete x 450g,Frutas,BAQ,1,2,,1.0,UNID,0.45
+202,BAQ-FRU1-CAT1-59:90:201:202,Mora Estándar - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+204,BAQ-FRU1-CAT1-60:91:203:204,Corozo Estándar - Kg,Frutas,BAQ,1,2,0,1.0,KG,1.0
+229,BAQ-FRU1-CAT1-61:92:205:229,Ají Topito Estándar - Kg,Verduras,BAQ,1,2,1,50.0,KG,1.0
+196,BAQ-FRU1-CAT1-66:87:195:196,Guayaba Maduración Mixta - Kg - 🤑 (Insuperable),Frutas,BAQ,1,2,1,1.0,KG,1.0
+1112,BAQ-FRU1-CAT1-97:431:1111:1112,Ciruela Roja Estándar - Kg,Frutas,BAQ,1,3,,1.0,KG,1.0
+16218,BAQ-FRU1-CAT100014-13454:24507:24508:16218,Uchuva Estándar - Bandeja,Frutas,BAQ,1,2,,1.0,UNID,0.45
+131193,BAQ-FRU1-CAT104105-104967:239539:239540:131193,Tomate Chonto Verde Mixto - Kg,Verduras,BAQ,1,2,,1.0,KG,1.0
+142755,BAQ-FRU1-CAT104105-115016:262946:262947:142755,Pepino Corriente Tamaño Mixto - Kg,Verduras,BAQ,1,1,1,1.0,KG,1.0
+160938,BAQ-FRU1-CAT104105-154:296447:296448:160938,Remolacha  Cero (Grande) - Kg,Verduras,BAQ,1,3,,1.0,KG,1.0
+258790,BAQ-FRU1-CAT104105-208359:511393:511394:258790,Cebolla Cabezona Roja Grande Cero (Grande) - Kg,Verduras,BAQ,1,3,1,50.0,KG,1.0
+258799,BAQ-FRU1-CAT104105-208362:511397:511398:258799,Cebollín Sucio Estándar - Kg,Verduras,BAQ,1,2,,1.0,KG,1.0
+327559,BAQ-FRU1-CAT104105-44:643471:643472:327559,Zanahoria Mixta - Kg,Verduras,BAQ,1,2,,60.0,KG,1.0
+630613,BAQ-FRU1-CAT104105-455075:1153677:1153676:630613,Tomate chonto Mixto - Desde 5kg,Verduras,BAQ,1,2,0,1.0,KG,1.0
+630219,BAQ-FRU1-CAT104105-455150:1153426:1153427:630219,Lechuga Batavia tamaño mixto Mixta - Unidad,Verduras,BAQ,1,2,,1.0,UNID,0.3
+641052,BAQ-FRU1-CAT104105-463913:1163159:1163160:641052,Cebolla roja pequeña Pequeña - KG,Verduras,BAQ,1,365,1,1.0,KG,1.0
+643523,BAQ-FRU1-CAT104105-465801:1165729:1165728:643523,Cebolla Blanca Con Rasguños Superficiales Mixta - Kg,Verduras,BAQ,1,365,1,1.0,KG,1.0
+63782,BAQ-FRU1-CAT104105-52857:101263:101262:63782,Zucchini Amarillo Estándar - Único,Verduras,BAQ,1,3,,1.0,KG,1.0
+63788,BAQ-FRU1-CAT104105-52860:101265:101264:63788,Pimentón Rojo Nataly Estándar - Kg,Verduras,BAQ,1,2,1,1.0,KG,1.0
+63795,BAQ-FRU1-CAT104105-52864:101267:101266:63795,Berenjena Baby Estándar Kg,Verduras,BAQ,1,3,,1.0,KG,1.0
+286789,BAQ-FRU1-CAT104105-54:569323:569324:286789,Ahuyama Grande - Kg,Verduras,BAQ,1,5,,20.0,KG,1.0
+73211,BAQ-FRU1-CAT104105-60271:124045:124046:73211,Cebolla Cabezona Blanca Sin Pelar Grande - Kg,Verduras,BAQ,1,3,1,1.0,KG,1.0
+258690,BAQ-FRU1-CAT104105-60271:510131:510132:258690,Cebolla Cabezona Blanca Sin Pelar Mixta - Desde 1Kg,Verduras,BAQ,1,3,0,1.0,KG,1.0
+82949,BAQ-FRU1-CAT104105-63377:142881:142882:82949,Tomate Chonto  Mixto - Extra Maduro,Verduras,BAQ,1,1,1,1.0,KG,1.0
+92108,BAQ-FRU1-CAT104105-73423:168376:168377:92108,Tomate Chonto Extramaduro Mixto - Kg,Verduras,BAQ,1,1,,22.0,KG,1.0
+92127,BAQ-FRU1-CAT104105-73435:169267:169268:92127,Limonaria Estándar - Atado,Verduras,BAQ,1,1,,1.0,UNID,0.2
+196373,BAQ-FRU1-CAT104107-158603:362011:362012:196373,Piña Segunda Estándar - Unidad,Frutas,BAQ,1,2,1,10.0,UNID,1.3
+210155,BAQ-FRU1-CAT104107-170565:393811:393812:210155,Aguacate Para Guacamole Extra Maduro - Kg,Frutas,BAQ,1,1,,10.0,KG,1.0
+134243,BAQ-FRU1-CAT104107-30:244845:244846:134243,Papaya Maradol Corriente (Mediana) - Kg,Frutas,BAQ,1,1,,1.0,KG,1.0
+139111,BAQ-FRU1-CAT104107-330:254488:254489:139111,Melón Corriente (Mediano) - Unidad,Frutas,BAQ,1,2,,1.0,UNID,1.0
+142264,BAQ-FRU1-CAT104107-367:261835:261836:142264,Coco Tamaño Mixto - Unidad,Frutas,BAQ,1,5,1,1.0,UNID,0.6
+630218,BAQ-FRU1-CAT104107-455147:1153424:1153423:630218,Plátano Hartón maduro Estandar - Maduro,Frutas,BAQ,1,2,,1.0,KG,1.0
+630618,BAQ-FRU1-CAT104107-455422:1153682:1153683:630618,Plátano Extra Maduro Tamaño Mixto - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+631850,BAQ-FRU1-CAT104107-456426:1155955:1155956:631850,Lulo Mixto Mixto - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+91387,BAQ-FRU1-CAT104107-72829:165644:165645:91387,Zapote Estándar - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+91444,BAQ-FRU1-CAT104107-72832:165646:165647:91444,Níspero Estándar - Kg,Frutas,BAQ,1,2,,1.0,KG,1.0
+97944,BAQ-FRU1-CAT104107-77661:180253:180254:97944,Guayaba de Segunda Mixta - Kg,Frutas,BAQ,1,1,,10.0,KG,1.0
+183252,BAQ-FRU1-CAT104111-147577:337629:337630:183252,Papa Pastusa Sucia  Estandar - Kg,Tubérculos,BAQ,1,3,1,1.0,KG,1.0
+631134,BAQ-FRU1-CAT104111-455604:1155694:1155695:631134,Papa criolla Tamaño Mixto - Kg,Tubérculos,BAQ,1,2,,1.0,KG,1.0
+631333,BAQ-FRU1-CAT104111-455605:1155679:1155680:631333,Papa R-12 lavada Tamaño Mixto - Kg,Tubérculos,BAQ,1,2,,1.0,KG,1.0
+73260,BAQ-FRU1-CAT104111-60301:124347:124348:73260,Papa R-12 Sucia  Estándar - Kg,Tubérculos,BAQ,1,2,,1.0,KG,1.0
+870,BAQ-FRU1-CAT2-100:332:869:870,Coliflor Estándar - Kg,Verduras,BAQ,1,2,,1.0,KG,1.0
+654,BAQ-FRU1-CAT2-115:274:653:654,Habichuela Estándar - Kg - 🤑 (Insuperable),Verduras,BAQ,1,2,,19.0,KG,1.0
+1018,BAQ-FRU1-CAT2-119:388:1017:1018,Hoja de Bijao  Estándar - Kg,Verduras,BAQ,1,2,,1.0,KG,1.0
+16202,BAQ-FRU1-CAT2-13447:24489:24490:16202,Repollo Morado Grande - Unidad,Verduras,BAQ,1,3,,1.0,UNID,1.0
+16342,BAQ-FRU1-CAT2-13447:24531:24532:16342,Repollo Morado Pequeño - Unidad,Verduras,BAQ,1,3,,1.0,UNID,0.6
+16209,BAQ-FRU1-CAT2-13451:24499:24500:16209,Repollo Blanco Pequeño - Unidad,Verduras,BAQ,1,3,,1.0,UNID,1.0
+16211,BAQ-FRU1-CAT2-13451:24501:24502:16211,Repollo Blanco Grande - Unidad,Verduras,BAQ,1,3,,1.0,UNID,2.0
+16224,BAQ-FRU1-CAT2-13457:24513:24514:16224,Cilantro Estándar - Atado,Verduras,BAQ,1,1,,1.0,UNID,0.45
+882,BAQ-FRU1-CAT2-148:338:881:882,Pimentón Amarillo Estándar - Kg,Verduras,BAQ,1,2,,1.0,KG,1.0
+18439,BAQ-FRU1-CAT2-15260:26859:26860:18439,Apio Estándar - Atado,Verduras,BAQ,1,2,,10.0,UNID,0.5
+656,BAQ-FRU1-CAT2-154:275:655:656,Remolacha Estándar - Kg,Verduras,BAQ,1,3,,1.0,KG,1.0
+766,BAQ-FRU1-CAT2-158:309:765:766,Tomate Milano Verde Estándar Kg,Verduras,BAQ,1,2,,1.0,KG,1.0
+26107,BAQ-FRU1-CAT2-21355:38262:38263:26107,Cebolla Larga Junca  Atado - Unidad,Verduras,BAQ,1,2,,10.0,UNID,0.45
+2092,BAQ-FRU1-CAT2-249:820:2091:2092,Zanahoria Segunda Tamaño Mixto - Kg,Verduras,BAQ,1,1,,1.0,KG,1.0
+874,BAQ-FRU1-CAT2-258:334:873:874,Rábano Rojo Estándar Kg,Verduras,BAQ,1,3,,1.0,KG,1.0
+908,BAQ-FRU1-CAT2-264:351:907:908,Arveja Verde Estándar - Kg,Verduras,BAQ,1,2,,1.0,KG,1.0
+961,BAQ-FRU1-CAT2-280:368:960:961,Pimentón Rojo Segunda  Estandar - Único,Verduras,BAQ,1,1,1,10.0,KG,1.0
+965,BAQ-FRU1-CAT2-281:370:964:965,Pimentón Verde Segunda  off Estándar - Único,Verduras,BAQ,1,1,1,12.0,KG,1.0
+36878,BAQ-FRU1-CAT2-31101:53541:53542:36878,Cebolla Puerro Estándar - Unidad,Verduras,BAQ,1,3,,1.0,UNID,0.3
+146,BAQ-FRU1-CAT2-31:64:145:146,Pepino Cohombro Estándar - Kg,Verduras,BAQ,1,2,1,1.0,KG,1.0
+148,BAQ-FRU1-CAT2-32:65:147:148,Pimentón Rojo  Estándar - Kg,Verduras,BAQ,1,2,,1.0,KG,1.0
+1181,BAQ-FRU1-CAT2-346:464:1180:1181,Ajo  Estandar - Caja,Verduras,BAQ,1,15,3,10.0,UNID,9.5
+42875,BAQ-FRU1-CAT2-36212:63209:63210:42875,Mazorca con Amero Estándar - Unidad,Verduras,BAQ,1,3,1,1.0,UNID,0.3
+42882,BAQ-FRU1-CAT2-36215:63238:63239:42882,Mazorca Estándar - Unidad,Verduras,BAQ,1,3,1,1.0,UNID,0.3
+1611,BAQ-FRU1-CAT2-389:625:1610:1611,Lechuga Romana Hidropónica Estandar - Unidad,Verduras,BAQ,1,2,,1.0,UNID,0.2
+1607,BAQ-FRU1-CAT2-390:623:1606:1607,Lechuga Crespa Morada Estandar - Unidad,Verduras,BAQ,1,2,,1.0,UNID,1.0
+1609,BAQ-FRU1-CAT2-392:624:1608:1609,Lechuga Crespa Verde Estandar - Unidad,Verduras,BAQ,1,2,,1.0,UNID,0.2
+1603,BAQ-FRU1-CAT2-394:621:1602:1603,Cogollo Estandar - Bandeja,Verduras,BAQ,1,2,,1.0,UNID,0.2
+1613,BAQ-FRU1-CAT2-395:626:1612:1613,Lechuga Rúgula  Estandar - Unidad,Verduras,BAQ,1,2,,1.0,UNID,0.2
+1872,BAQ-FRU1-CAT2-398:721:1871:1872,Espinaca Estandar - Atado - 🤑 (Insuperable),Verduras,BAQ,1,2,,1.0,UNID,0.45
+103,BAQ-FRU1-CAT2-3:43:102:103,Ajo Estandar - Kg,Verduras,BAQ,1,18,3,1.0,KG,1.0
+47269,BAQ-FRU1-CAT2-40061:70131:70132:47269,Perejil Liso Estándar - Atado,Verduras,BAQ,1,2,,1.0,UNID,0.2
+54005,BAQ-FRU1-CAT2-45497:81653:81654:54005,Tomate Larga Vida Maduración Mixta Bandeja - Maduro,Verduras,BAQ,1,1,,1.0,KG,1.0
+55848,BAQ-FRU1-CAT2-46861:84984:84985:55848,Raíces Chinas Paquete 250g - Unidad,Verduras,BAQ,1,2,,1.0,UNID,0.25
+171,BAQ-FRU1-CAT2-50:75:170:171,Cebolla Roja Mixta  Mixta - Desde 5kg,Verduras,BAQ,1,3,0,1.0,KG,1.0
+174,BAQ-FRU1-CAT2-51:76:173:174,Pimentón Verde Mixto Estándar - Desde 1Kg,Verduras,BAQ,1,2,,12.0,KG,1.0
+180,BAQ-FRU1-CAT2-53:79:179:180,Zucchini Estandar - Verde,Verduras,BAQ,1,3,,1.0,KG,1.0
+1874,BAQ-FRU1-CAT2-543:722:1873:1874,Col China Estandar - Unidad,Verduras,BAQ,1,2,,1.0,UNID,1.0
+192,BAQ-FRU1-CAT2-54:85:191:192,Ahuyama Estándar - Kg - 🤑 (Insuperable),Verduras,BAQ,1,4,,30.0,KG,1.0
+184,BAQ-FRU1-CAT2-55:81:183:184,Guineo Verde KG Estandar - Estándar,Verduras,BAQ,1,2,,1.0,KG,1.0
+1943,BAQ-FRU1-CAT2-563:755:1942:1943,Guasca Estandar - Atado,Verduras,BAQ,1,1,,1.0,UNID,0.2
+176,BAQ-FRU1-CAT2-5:77:175:176,Berenjena Estandar - Único,Verduras,BAQ,1,2,,1.0,KG,1.0
+107,BAQ-FRU1-CAT2-6:45:106:107,Cebolla Cabezona Blanca Limpia Mixta - Kg,Verduras,BAQ,1,2,,1.0,KG,1.0
+868,BAQ-FRU1-CAT2-86:331:867:868,Brócoli Estándar - Kg,Verduras,BAQ,1,2,,1.0,KG,1.0
+16230,BAQ-FRU1-CAT4-13460:24519:24520:16230,Cebollín Chino Estándar - Atado,Verduras,BAQ,1,1,,1.0,UNID,0.45
+36872,BAQ-FRU1-CAT4-31098:53485:53486:36872,Acelga Estándar - Atado,Verduras,BAQ,1,2,,1.0,UNID,0.45
+1862,BAQ-FRU1-CAT4-385:716:1861:1862,Albahaca Estandar - Atado,Verduras,BAQ,1,1,,1.0,UNID,0.1
+1878,BAQ-FRU1-CAT4-454:724:1877:1878,Hierbabuena Fresca Estandar - Atado,Verduras,BAQ,1,1,,1.0,UNID,0.25
+1866,BAQ-FRU1-CAT4-457:718:1865:1866,Perejil Crespo Estandar - Atado,Verduras,BAQ,1,2,,1.0,UNID,0.2
+1880,BAQ-FRU1-CAT4-460:725:1879:1880,Laurel  Estandar - Atado,Verduras,BAQ,1,1,,1.0,UNID,0.1
+1933,BAQ-FRU1-CAT4-566:750:1932:1933,Romero Estandar - Atado 200g,Verduras,BAQ,1,1,,1.0,UNID,0.2
+1935,BAQ-FRU1-CAT4-567:751:1934:1935,Tomillo Estandar - Atado,Verduras,BAQ,1,1,,1.0,UNID,0.2
+1599,BAQ-FRU1-CAT5-464:619:1598:1599,Champiñones Estandar - Bandeja 1kg,Verduras,BAQ,1,3,,1.0,UNID,1.0
+18446,BAQ-FRU1-CAT6-15264:26867:26868:18446,Jengibre Estándar - Bandeja,Tubérculos,BAQ,1,3,,1.0,UNID,0.15
+770,BAQ-FRU1-CAT6-234:304:750:770,Papa Blanca Sucia Tamaño Mixto - KG,Tubérculos,BAQ,1,3,0,48.0,KG,1.0
+967,BAQ-FRU1-CAT6-283:371:966:967,Papa R-12 Segunda Estándar - Kg,Tubérculos,BAQ,1,1,1,50.0,KG,1.0
+2018,BAQ-FRU1-CAT6-298:790:2017:2018,Papa Criolla Segunda  Mixta - Kg,Tubérculos,BAQ,1,1,,48.0,KG,1.0
+863,BAQ-FRU1-CAT6-43:73:164:863,Yuca Tamaño Mixto - Desde 5kg,Tubérculos,BAQ,1,2,,40.0,KG,1.0
+140,BAQ-FRU1-CAT6-46:61:139:140,Papa R-12 Lavada Estandar - Kg,Tubérculos,BAQ,1,3,1,1.0,KG,1.0
+194,BAQ-FRU1-CAT6-64:86:193:194,Ñame Estándar - Kg,Tubérculos,BAQ,1,3,1,50.0,KG,1.0
+2158,BAQ-FRU1-CAT6-658:852:2157:2158,Papa Blanca Segunda  Estándar - Kg,Tubérculos,BAQ,1,2,1,1.0,KG,1.0
+658,BAQ-FRU1-CAT6-82:276:657:658,Arracacha Estándar - Kg,Verduras,BAQ,1,1,,1.0,KG,1.0
