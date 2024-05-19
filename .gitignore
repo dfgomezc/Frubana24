@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Environment variables
-.env
+
 
 # Virtual environment directory
 frubana-env/
