@@ -1,6 +1,6 @@
 @echo off
 REM Establecer la ubicación del directorio base
-SET BASE_DIR=D:\01_MaestriaAnalitica_UnivAndes\Frubana24
+SET BASE_DIR=C:\Frubana24
 
 REM Establecer la ubicación del ejecutable de Python en el ambiente virtual
 SET PYTHON_EXEC=%BASE_DIR%\frubana-env\Scripts\python.exe

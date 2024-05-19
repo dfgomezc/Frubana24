@@ -3,6 +3,7 @@ import sys
 from sqlalchemy import create_engine
 import statsmodels.api as sm
 import pandas as pd
+import numpy as np
 
 def conn_sql_server(db:str,server:str):
     # configurar conexión a base de datos SQLServer
