@@ -1,4 +1,7 @@
 # Grupo 24
+
+![Frubana](IMG/fondo_frubana_2.jpeg.png)
+
 Bienvenidos al repositorio del Proyecto de Grado de la Maestría de Inteligencia Analítica de Datos de la Universidad de los Andes - segunda cohorte.
 
 # "Generar Recomendaciones Relevantes para los Clientes de Frubana"
