@@ -17,7 +17,7 @@ relevantes y efectivas, incluso en segmentos con poca diversidad de productos.
 
 Para el cálculo de las **Elasticidades** se empleó el modelo **log log** de elasticidad que se basa en tomar logaritmos naturales de las variables involucradas y sus resultados son consistentes.
 
-# Cómo se realizo la segmentación?
+# ¿Cómo se realizo la segmentación?
 Se definió realizar una segmentación general de los clientes. Esta segmentación se basa en dos variables clave: la frecuencia de compras y el valor promedio de las compras. La decisión de escoger estas variables se basa en la gráfica de dispersión que se observa a continuación donde se muestra la concentración de los clientes cerca al origen, sin embargo, también se observan grupos de clientes fuera de esta zona. Al segmentar a los clientes en grupos más homogéneos en función de estos criterios, se obtuvo recomendaciones más precisas y relevantes para cada segmento, buscando mejorar la experiencia de compra de los clientes y aumentar la efectividad de las estrategias de marketing de Frubana.
 
 De igual forma, se definió realizar una segmentación de clientes con reglas duras, esta es una herramienta con un enfoque claro y eficiente que permite personalizar las recomendaciones de canastas de productos de Frubana; al asignar a cada cliente a un segmento exclusivo según su comportamiento de compra. Esta estrategia permite ofrecer sugerencias más relevantes y atractivas, aumentando así la probabilidad de que los clientes realicen compras adicionales y mejoren su satisfacción con la plataforma.
@@ -29,6 +29,8 @@ Los cuatro segmentos definidos son:
 2. Clientes Ocasionales y de Alto Gasto: 1.280 clientes.
 3. Clientes Frecuentes y de Bajo Gasto: 3.733 clientes.
 4. Clientes Frecuentes y de Alto Gasto: 2.035 clientes.
+
+# Vista del visualizador de la herramienta en PowerBI
 
 
 
