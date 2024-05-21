@@ -11,7 +11,7 @@ relevantes.
 # ¿Qué es Frubana?
 Es una empresa de tecnología que surge con la idea de ofrecer alimentos más baratos para Latinoamérica, optimizando los procesos de compra en el campo y tecnificando el negocio en la plaza de mercado. Se trata de una aplicación disponible para agricultores y dueños de restaurantes, con el fin de integrar la oferta y la demanda de productos alimenticios. De esta forma es posible obtener una importante sinergia entre tecnología, agricultura y gastronomía. Portafolio 7 octubre de 2018.
 
-# ¿Cuál fueron los Modelos Seleccionados?
+# ¿Cuáles fueron los Modelos Seleccionados?
 Se seleccionó el **Modelo A Priori** por su simplicidad eficiencia y capacidad para adaptarse a segmentos de clientes específicos al enfocarse en la popularidad de los productos dentro de cada segmento de clientes, el modelo a priori puede ofrecer recomendaciones
 relevantes y efectivas, incluso en segmentos con poca diversidad de productos.
 
