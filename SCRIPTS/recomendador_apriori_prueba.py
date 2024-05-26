@@ -6,9 +6,9 @@ Created on Sun May 26 00:47:46 2024
 @author: linaherrera
 """
 
-#!pip install apyori  # en caso de no poner instalar apryori
+# !pip install apyori  # en caso de no poner instalar apryori
 
-from apyori import apriori
+# from apyori import apriori
 import os
 import pandas as pd
 import sys
@@ -21,24 +21,60 @@ warnings.filterwarnings("ignore")
 import re
 
 
-current_dir = os.getcwd()
-project_name = 'Frubana24'
+from dotenv import dotenv_values
+
+scripts_dir = os.path.join(os.getcwd(), 'SCRIPTS')
+sys.path.append(scripts_dir)
+from utils import conn_sql_server
+
+# Cargar las variables de entorno desde el archivo .env
+env_vars = dotenv_values(".env")
+
+# Acceder a las variables de entorno
+bd = env_vars["bd"]
+server = env_vars["server"]
+engine = conn_sql_server(bd, server)
 
 
 
-# Encontrar el índice de la carpeta del proyecto
-project_index = current_dir.split(os.sep).index(project_name)
+# current_dir = os.getcwd()
+# project_name = 'Frubana24'
 
-# Reconstruir la ruta del directorio base hasta 'Frubana24'
-base_dir = os.sep.join(current_dir.split(os.sep)[:project_index + 1])
 
-# Definir las rutas relativas a partir del directorio base
-input_dir = os.path.join(base_dir, 'INPUTS')
-input_file = os.path.join(input_dir, 'VENTAS_CON_SEGMENTACION.xlsx')  # Archivo de entrada
 
-#Leer data 
+# # Encontrar el índice de la carpeta del proyecto
+# project_index = current_dir.split(os.sep).index(project_name)
 
-df = pd.read_excel(input_file)
+# # Reconstruir la ruta del directorio base hasta 'Frubana24'
+# base_dir = os.sep.join(current_dir.split(os.sep)[:project_index + 1])
+
+# # Definir las rutas relativas a partir del directorio base
+# input_dir = os.path.join(base_dir, 'INPUTS')
+# input_file = os.path.join(input_dir, 'VENTAS_CON_SEGMENTACION.xlsx')  # Archivo de entrada
+
+# #Leer data 
+
+df = pd.read_sql("""
+    SELECT 
+       A.[nro_orden]
+      ,A.[fecha]
+      ,A.[producto]
+      ,A.[cantidad]
+      ,A.[precio]
+      ,A.[descuento]
+      ,A.[customer_id]
+      ,A.[sku]
+      ,A.[product_id]
+      ,A.[product_quantity_x_step_unit]
+      ,A.[product_step_unit]
+      ,A.[product_unit]
+      ,A.[sku_parent]
+      ,A.[month]
+      ,A.[SEGMENTO]
+	  ,B.[Nombre_estandarizado] AS nombre_estandarizado
+  FROM [FRUBANA].[dbo].[FACT_VENTAS_SEGMENTACION] AS A
+  LEFT JOIN [FRUBANA].[dbo].[DIM_VENTAS_FINAL] AS B
+	ON A.[sku] = B.[SKU]""",con=engine)
 
 
 # MODELO A PRIORI
@@ -85,7 +121,19 @@ all_rules['consequents'] = all_rules['consequents'].apply(remove_parentheses)
 all_rules['antecedents'] = all_rules['antecedents'].apply(remove_parentheses)
 
 # Guardar el DataFrame resultante
-output_file = os.path.join(input_dir, 'canastas.xlsx')
-all_rules.to_excel(output_file, index=False)
+# output_file = os.path.join(input_dir, 'canastas.xlsx')
+renombrar_columnas = {'antecedents':'antecedents', 
+                      'consequents':'consequents', 
+                      'antecedent support':'antecedent support',
+                      'consequent support':'consequent support', 
+                      'support':'support', 
+                      'confidence':'confidence', 
+                      'lift':'lift', 
+                      'leverage':'leverage',
+                      'conviction':'conviction', 
+                      'zhangs_metric':'zhangs_metric', 
+                      'segment':'Segmento'}
+all_rules = all_rules.rename(columns=renombrar_columnas)
+all_rules.to_sql("FACT_CANASTAS",con=engine, index=False, if_exists='replace')
 
 

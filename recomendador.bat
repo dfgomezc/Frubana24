@@ -6,22 +6,13 @@ REM Establecer la ubicación del ejecutable de Python en el ambiente virtual
 SET PYTHON_EXEC=%BASE_DIR%\frubana-env\Scripts\python.exe
 
 REM Establecer la ubicación del script a ejecutar
-SET SCRIPT=%BASE_DIR%\SCRIPTS\etl_sql.py
+SET SCRIPT=%BASE_DIR%\SCRIPTS\recomendador_apriori_prueba.py
 
 REM Cambiar al directorio base
 cd /d %BASE_DIR%
 
 REM Ejecutar el script con el ambiente virtual de Python
 %PYTHON_EXEC% %SCRIPT%
-
-SET SCRIPT2=%BASE_DIR%\SCRIPTS\recomendador_apriori.py
-%PYTHON_EXEC% %SCRIPT2%
-
-SET SCRIPT3=%BASE_DIR%\SCRIPTS\mod_elasticidades.py
-%PYTHON_EXEC% %SCRIPT3%
-
-SET SCRIPT4=%BASE_DIR%\SCRIPTS\Segmentacion.py
-%PYTHON_EXEC% %SCRIPT4%
 
 REM Pausa para mantener la ventana abierta y ver cualquier salida
 pause

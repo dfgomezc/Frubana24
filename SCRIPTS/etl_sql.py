@@ -111,24 +111,24 @@ df_hist_ventas.to_sql(name="FACT_VENTAS", con=engine, index=False, if_exists='re
 DIM_producto_final = pd.read_excel("INPUTS/DIM_productos.xlsx")
 DIM_producto_final.to_sql(name="DIM_VENTAS_FINAL", con=engine, index=False, if_exists='replace')
 
-# =============================================================================
-# VENTAS CON SEGMENTACION
-# =============================================================================
-canastas = pd.read_excel("INPUTS/VENTAS_CON_SEGMENTACION.xlsx")
-canastas.to_sql(name="FACT_VENTAS_SEGMENTACION", con=engine, index=False, if_exists='replace')
+# # =============================================================================
+# # VENTAS CON SEGMENTACION
+# # =============================================================================
+# canastas = pd.read_excel("INPUTS/VENTAS_CON_SEGMENTACION.xlsx")
+# canastas.to_sql(name="FACT_VENTAS_SEGMENTACION", con=engine, index=False, if_exists='replace')
 
 
-# =============================================================================
-# CANASTAS
-# =============================================================================
-canastas = pd.read_excel("INPUTS/canastas.xlsx")
-canastas.to_sql(name="FACT_CANASTAS", con=engine, index=False, if_exists='replace')
+# # =============================================================================
+# # CANASTAS
+# # =============================================================================
+# canastas = pd.read_excel("INPUTS/canastas.xlsx")
+# canastas.to_sql(name="FACT_CANASTAS", con=engine, index=False, if_exists='replace')
 
-# =============================================================================
-# SEGMENTACION CLIENTES
-# =============================================================================
-canastas = pd.read_excel("INPUTS/segmentacion_clientes.xlsx")
-canastas.to_sql(name="DIM_SEGMENTACION", con=engine, index=False, if_exists='replace')
+# # =============================================================================
+# # SEGMENTACION CLIENTES
+# # =============================================================================
+# canastas = pd.read_excel("INPUTS/segmentacion_clientes.xlsx")
+# canastas.to_sql(name="DIM_SEGMENTACION", con=engine, index=False, if_exists='replace')
 
 
 # =============================================================================
