@@ -1,9 +1,12 @@
 import os
+import sys
+
 import pandas as pd
-
-from utils import conn_sql_server
-
 from dotenv import dotenv_values
+
+scripts_dir = os.path.join(os.getcwd(), 'SCRIPTS')
+sys.path.append(scripts_dir)
+from utils import conn_sql_server
 
 # Cargar las variables de entorno desde el archivo .env
 env_vars = dotenv_values(".env")
@@ -113,4 +116,34 @@ DIM_producto_final.to_sql(name="DIM_VENTAS_FINAL", con=engine, index=False, if_e
 # =============================================================================
 canastas = pd.read_excel("INPUTS/VENTAS_CON_SEGMENTACION.xlsx")
 canastas.to_sql(name="FACT_VENTAS_SEGMENTACION", con=engine, index=False, if_exists='replace')
+
+
+# =============================================================================
+# CANASTAS
+# =============================================================================
+canastas = pd.read_excel("INPUTS/canastas.xlsx")
+canastas.to_sql(name="FACT_CANASTAS", con=engine, index=False, if_exists='replace')
+
+# =============================================================================
+# SEGMENTACION CLIENTES
+# =============================================================================
+canastas = pd.read_excel("INPUTS/segmentacion_clientes.xlsx")
+canastas.to_sql(name="DIM_SEGMENTACION", con=engine, index=False, if_exists='replace')
+
+
+# =============================================================================
+# IMPACTO CANASTAS
+# =============================================================================
+
+
+with open('SCRIPTS/sql/IMPACTO_CANASTAS.sql', 'r') as archivo_sql:
+    sql_impacto_canastas = archivo_sql.read()
+
+# Imprime el contenido leído
+
+impacto_canastas = pd.read_sql(sql_impacto_canastas,con=engine)
+
+impacto_canastas.to_sql(name="RESULT_IMPACTO", con=engine, index=False, if_exists='replace')
+
+
 
