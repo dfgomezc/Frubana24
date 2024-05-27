@@ -37,7 +37,7 @@ Los cuatro segmentos definidos son:
 # Vista del visualizador de la herramienta en PowerBI
 
 <div align="center">
-  <img src="IMG/Entrega2_visua.JPG" alt="Visualizador" />
+  <img src="IMG/Tablero7.png" alt="Visualizador" />
 </div>
 
 
